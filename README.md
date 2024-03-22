@@ -6,7 +6,6 @@
 - I'm a **Web Developer** from England with 5+ years of development experience.
 - Currently working on [Stylify](https://JokeFat.github.io) for easier, faster; efficient web development.
 - In my free time I love contributing to **open source** projects and playing games.
-  [github-readme-stats](https://github.com/JokeFat/github-readme-stats) 
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/Baschentag)
 
