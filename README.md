@@ -3,7 +3,7 @@
 [![Github](https://img.shields.io/github/followers/JokeFat?label=Follow&style=social)](https://github.com/JokeFat)
 [![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/)
 
-- I'm a **Web Developer** from England with 5+ years of development experience.
+- I'm a **Web Developer** from England with more than 6 years of development experience.
 - Currently working on [Stylify](https://JokeFat.github.io) for easier, faster; efficient web development.
 - In my free time I love contributing to **open source** projects and playing games.
 
